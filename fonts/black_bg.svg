@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="35px" height="30px" viewBox="0 0 35 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>black bg</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="mobile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="black-bg">
+            <rect id="Rectangle-path" fill="#000000" x="0" y="0" width="35" height="30" rx="5"></rect>
+            <g id="Group" transform="translate(6.000000, 7.500000)" fill-rule="nonzero" fill="#FFFFFF">
+                <rect id="3" x="0.5" y="12" width="22" height="3" rx="1.4"></rect>
+                <rect id="2" x="0.5" y="6" width="22" height="3" rx="1.4"></rect>
+                <rect id="1" x="0.5" y="0" width="22" height="3" rx="1.4"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
